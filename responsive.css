@@ -1,0 +1,32 @@
+@media(width < 1025px){
+    .principal{
+        flex-flow: column;
+        padding: 40px;
+    }
+
+    .principal .content-left{
+        width: 100%;
+        height: 70%;
+        margin-top: 40px;
+    }
+
+    .principal .content-right{
+        width: 100%;
+        height: auto;
+        margin-top: 50px;
+    }
+
+    .principal .content-right .content-nao-interativo img{
+        display: none;
+    }
+
+    .principal .content-right .content-interativo button{
+        height: 100px;
+    }
+
+    .principal .content-right .content-interativo textarea{
+        height: 100%;
+        overflow-y: auto;
+    }
+
+}

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsive.css">
     <title>Decodificador de Texto</title>
 </head>
 <body>
@@ -18,11 +19,11 @@
             </div>
         </div>
         <div class="content-right">
-            <div class="content-interativo">
-                <textarea id="texto-codificado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Orci montes, sit et diam risus scelerisque vitae est. Tortor maecenas nunc ut laoreet. Eget diam mauris quam quisque ut eget fringilla sit elit. Libero, sodales duis fames id diam feugiat aliquet non egestas.</textarea>
+            <div class="content-interativo" id="content-interativo">
+                <textarea id="texto-codificado" placeholder="Nenhuma mensagem"></textarea>
                 <button id="btn-copiar">Copiar</button>
             </div>
-            <div class="content-nao-interativo">
+            <div class="content-nao-interativo" id="content-nao-interativo">
                 <img src="./assets/menina-com-lupa-na-mao.svg">
                 <div class="texts">
                     <h3>Nenhuma mensagem encontrada</h3>
