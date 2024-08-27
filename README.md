@@ -1,5 +1,5 @@
 ---
-![Interface Visual do codificador de Texto](https://imgur.com/a/xyR3zRs)
+![Interface Visual do codificador de Texto](https://github.com/nicolas-marlon/decodificador-de-texto/blob/main/assets/decodificador-de-texto-interface.png)
 # 🔐 Codificador de Texto
 
 ## 🎯 Sobre o Projeto
@@ -19,7 +19,7 @@ Este projeto é um desafio do Programa ONE, turma 7, da Oracle + Alura. O objeti
 - [x] Botão copiar texto
 
 ## 📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/nicolas-marlon/decodificador-de-texto/blob/main/README.md) para mais detalhes.
 
 ---
 
